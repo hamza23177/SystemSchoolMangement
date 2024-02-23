@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "118836516040",
+    "project_id": "school-7d6cb",
+    "storage_bucket": "school-7d6cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118836516040:android:993253ec0db6029371c1fd",
+        "android_client_info": {
+          "package_name": "com.example.tr_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118836516040-q41g16pmivtvv1bnp0qrb7sn7ojsma6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx9icqEhcIZcNrEdXXzLRNbVZfnVVJ_XA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118836516040-q41g16pmivtvv1bnp0qrb7sn7ojsma6d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "118836516040-58n49g1rqnatu4hva4dk35e7h1o7k4vk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.trApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
